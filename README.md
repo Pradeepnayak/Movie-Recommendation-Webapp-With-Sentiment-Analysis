@@ -4,8 +4,8 @@ Content Based Recommender System recommends movies similar to the movie user lik
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API, I did web scraping to get the reviews given by the user in the IMDB site using beautifulsoup4 and performed sentiment analysis on those reviews.
 
 # Demo of the Project
-![alt text](https://github.com/Pradeepnayak/Movie-Recommendation-Webapp-With-Sentiment-Analysis/blob/main/static/SearchImage.png)
-![alt text](https://github.com/Pradeepnayak/Movie-Recommendation-Webapp-With-Sentiment-Analysis/blob/main/static/autocompleteImage.png)
+![alt text](https://github.com/Pradeepnayak/Movie-Recommendation-Webapp-With-Sentiment-Analysis/blob/main/static/SearchImage.png)<br/>
+![alt text](https://github.com/Pradeepnayak/Movie-Recommendation-Webapp-With-Sentiment-Analysis/blob/main/static/autocompleteImage.png)<br/>
 [![Demo CountPages alpha](https://github.com/Pradeepnayak/Movie-Recommendation-Webapp-With-Sentiment-Analysis/blob/main/static/projectDemo.gif)]
 
 ### Sources of the datasets 
