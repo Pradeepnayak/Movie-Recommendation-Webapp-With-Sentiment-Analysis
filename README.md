@@ -5,7 +5,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 # Project Demo:
 
-##Link: https://rocky-gorge-25506.herokuapp.com/
+Link: https://rocky-gorge-25506.herokuapp.com/
 
 ![alt text](https://github.com/Pradeepnayak/Movie-Recommendation-Webapp-With-Sentiment-Analysis/blob/main/static/SearchImage.png)<br/>
 ![alt text](https://github.com/Pradeepnayak/Movie-Recommendation-Webapp-With-Sentiment-Analysis/blob/main/static/autocompleteImage.png)<br/>
